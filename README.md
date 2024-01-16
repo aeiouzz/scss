@@ -6,4 +6,5 @@
 2. ![image](https://github.com/aeiouzz/scss/assets/145514483/815876a5-d4c6-4c62-b53b-7f3ef6e179f2)
 밑에 watching 누르면 css 파일 생성
 
-3. 
+3. ![image](https://github.com/aeiouzz/scss/assets/145514483/4dbbcb85-30f5-401a-a8c2-d746c3be9543)
+
