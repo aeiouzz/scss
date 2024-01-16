@@ -11,4 +11,6 @@
 4. savepath : null -> null이면 scss파일과 같은 위치에 style.css가 생긴다.
 5. ![image](https://github.com/aeiouzz/scss/assets/145514483/0cf65890-0ced-4bd1-bd36-f2f241ca5690)
 ![image](https://github.com/aeiouzz/scss/assets/145514483/02f8301d-a5e5-4f0b-b9e6-f7d271041105)
+![image](https://github.com/aeiouzz/scss/assets/145514483/fccc4069-0498-4f65-8a66-0d1709746c0a)
+
 scss안에 또 다른 css폴더가 생성됨
