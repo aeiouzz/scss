@@ -19,9 +19,15 @@
 6. 🎀 ~/../css -> style.scss가 있는 폴더와 같은 위치에 css폴더가 생성되고 그 css폴더 안에 컴파일된 style.css가 생긴다.
 ![image](https://github.com/aeiouzz/scss/assets/145514483/2a3c9e4b-e98d-44a3-8d81-24b6e887f066)
 
-7. 🎀 .min.css -> css의 압축 버전
+7. 변수 만들기 scss에서 변수 -> $로 시작한다(영문, 숫자, -, _)만 사용 가능
+
+8. 인터폴레이션 방법
+![image](https://github.com/aeiouzz/scss/assets/145514483/b2dfdb75-5d78-4911-b1d7-67fe97eb357e)
+
+
+8. 🎀 .min.css -> css의 압축 버전
 ![image](https://github.com/aeiouzz/scss/assets/145514483/d5369fb4-e3a4-4c01-a8cc-f0aa8e268c25)
 
 
-8. 변수 만들기
+9. 변수 만들기
 scss에서 변수 -> $로 시작한다(영문, 숫자. -, _)만 사용할 수 있다.
