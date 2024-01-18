@@ -13,4 +13,9 @@
 ![image](https://github.com/aeiouzz/scss/assets/145514483/02f8301d-a5e5-4f0b-b9e6-f7d271041105)
 ![image](https://github.com/aeiouzz/scss/assets/145514483/fccc4069-0498-4f65-8a66-0d1709746c0a)
 
-scss안에 또 다른 css폴더가 생성됨
+🎀 ~/css scss안에 또 다른 css폴더가 생성됨
+~은 style.css를 의미, /는 style.scss가 있는 폴더를 의미, scss파일과 같은 위치에 css 폴더가 생성되고 그 css폴더 안에 컴파일된 style.css가 생긴다.
+
+![image](https://github.com/aeiouzz/scss/assets/145514483/2a3c9e4b-e98d-44a3-8d81-24b6e887f066)
+
+🎀 ~/../css -> style.scss가 있는 폴더와 같은 위치에 css폴더가 생성되고 그 css폴더 안에 컴파일된 style.css가 생긴다.
