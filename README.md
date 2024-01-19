@@ -42,6 +42,7 @@ scss에서 변수 -> $로 시작한다(영문, 숫자. -, _)만 사용할 수 �
 13. 변수에 중복을 막을 수 있는 방법 @use, @forward
 14. @use 많이 사용
 15. 구분하는 방법은 파일명을 이용 (h1{color:var2.$color-primary})
-16. as를 이용하여 별명을 붙일 수 있다.
-17.  @use './partials/var';
-@use './partials/var2';
+16.
+@use './partials/var';
+@use './partials/var2' as v2;
+h1{color:v2.$color-primary} 
